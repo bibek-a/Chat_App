@@ -1,0 +1,34 @@
+
+1. Suppose you are the secretary of department of electrical engineering, IOE, Pulchowk Campus,Lalitpur. Write a notice along with four points, agenda for the sixth meeting of the department. (5 marks)
+     
+
+            Institute of Engineering
+                Pulchowk Campus
+              Chakupat, Lalitpur
+         -------------------------------------
+         -------------------------------------
+  Department of Electrical Engineering
+         -------------------------------------
+         -------------------------------------
+                                         5 June 2022 
+         -------------------------------------
+         -------------------------------------
+                     NOTICE
+         -------------------------------------
+         -------------------------------------
+This is to notify all the faculty members of the department its sixth meeting is going to be held at 11 am on June 9, 2022 in the meeting room. Therefore, all the concerned members of the department are kindly requested to attend the meeting. The agenda is given below:
+         -------------------------------------
+         -------------------------------------
+                     AGENDA
+         -------------------------------------
+         -------------------------------------            
+6.1 Appointment of qualified teaching personnel.
+6.2 Regularity and Punctuality of both teachers and students.
+6.3 Active participation of student in different project work.
+6.4 Purchase of textbooks.
+         -------------------------------------
+         -------------------------------------
+                                           signature
+                                      Manoj Godar
+                                           Secretary
+cc: All Members 

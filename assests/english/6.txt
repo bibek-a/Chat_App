@@ -1,0 +1,33 @@
+
+2. Imagine you are secretary of local club. Write a notice along with agenda for the 7 th meeting regarding establishment of a library for the locality. (5 marks)
+     
+
+            Butwal Welfare Society
+               Devinagar, Butwal
+         -------------------------------------
+         -------------------------------------
+   Department of Electrical Engineering
+         -------------------------------------
+         -------------------------------------
+                                         6 June 2022 
+         -------------------------------------
+         -------------------------------------
+                     NOTICE
+         -------------------------------------
+         -------------------------------------
+This is to notify all the member of Butwal Welfare Society that its seventh meeting is going to be held at 10 am on 10 th June 2022 in the meeting hall. Therefore, all the concerned members are kindly requested to attend the meeting. The agenda is given below:
+        -------------------------------------
+         -------------------------------------
+                     AGENDA
+         -------------------------------------
+         -------------------------------------            
+1.1 Discussion on financial requirement of library.
+1.2 Active participation of members of the club.
+1.3 Purchase of books and furniture.
+1.4 Appointment of a librarian.
+         -------------------------------------
+         -------------------------------------
+                                           signature
+                                      Manoj Godar
+                                           Secretary
+cc: All Members 
